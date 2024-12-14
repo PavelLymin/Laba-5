@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="1" branch-rate="0.5" lines-covered="33" lines-valid="33" branches-covered="6" branches-valid="12" complexity="15" version="0" timestamp="1734219363">
+  <sources />
+  <packages>
+    <package name="MyFactoryTests" line-rate="1" branch-rate="0.5" complexity="15">
+      <classes>
+        <class name="MyFactoryTests.FactoryTests" filename="C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\MyFactoryTests\FactoryTests.cs" line-rate="1" branch-rate="0.5" complexity="15">
+          <methods>
+            <method name="create_privateResidentBuilding_from_arguments" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="false" />
+                <line number="15" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="create_countryHouse_from_arguments" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="27" hits="1" branch="false" />
+                <line number="28" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="create_apartmentBuilding_from_arguments" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ApartmentBuilding_ThrowsException_WhenFloorIsNegative" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="41" hits="1" branch="false" />
+                <line number="42" hits="2" branch="true" condition-coverage="50% (1/2)" />
+                <line number="43" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CountryHouse_ThrowsException_WhenPlotAreaOutsideSegment" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="47" hits="1" branch="false" />
+                <line number="48" hits="2" branch="true" condition-coverage="50% (1/2)" />
+                <line number="49" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="PrivateResidentBuilding_ThrowsException_WhenCostLessThan1000" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="53" hits="1" branch="false" />
+                <line number="54" hits="2" branch="true" condition-coverage="50% (1/2)" />
+                <line number="55" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CreatePrivateResidentBuilding_FromArguments_ThrowException" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="59" hits="1" branch="false" />
+                <line number="60" hits="2" branch="true" condition-coverage="50% (1/2)" />
+                <line number="61" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="ApartmentBuilding_FromArguments_ThrowException" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="65" hits="1" branch="false" />
+                <line number="66" hits="2" branch="true" condition-coverage="50% (1/2)" />
+                <line number="67" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CreateCountryHouse_FromArguments_ThrowException" signature="()" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="71" hits="1" branch="false" />
+                <line number="72" hits="2" branch="true" condition-coverage="50% (1/2)" />
+                <line number="73" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="1" branch="false" />
+            <line number="15" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="27" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="41" hits="1" branch="false" />
+            <line number="42" hits="2" branch="true" condition-coverage="50% (1/2)" />
+            <line number="43" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+            <line number="48" hits="2" branch="true" condition-coverage="50% (1/2)" />
+            <line number="49" hits="1" branch="false" />
+            <line number="53" hits="1" branch="false" />
+            <line number="54" hits="2" branch="true" condition-coverage="50% (1/2)" />
+            <line number="55" hits="1" branch="false" />
+            <line number="59" hits="1" branch="false" />
+            <line number="60" hits="2" branch="true" condition-coverage="50% (1/2)" />
+            <line number="61" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="66" hits="2" branch="true" condition-coverage="50% (1/2)" />
+            <line number="67" hits="1" branch="false" />
+            <line number="71" hits="1" branch="false" />
+            <line number="72" hits="2" branch="true" condition-coverage="50% (1/2)" />
+            <line number="73" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

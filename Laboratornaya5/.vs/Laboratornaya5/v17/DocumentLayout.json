@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PavelL\\Desktop\\\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\Laboratornaya5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CAABCA6-7780-4F03-9586-051FD7732D6A}|MyFactoryTests\\MyFactoryTests.csproj|c:\\users\\pavell\\desktop\\\u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\laboratornaya5\\myfactorytests\\factorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CAABCA6-7780-4F03-9586-051FD7732D6A}|MyFactoryTests\\MyFactoryTests.csproj|solutionrelative:myfactorytests\\factorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0095B70-D6B2-48B2-A146-0382B29EF20E}|MyLibrary\\MyLibrary.csproj|c:\\users\\pavell\\desktop\\\u043F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\laboratornaya5\\mylibrary\\countryhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0095B70-D6B2-48B2-A146-0382B29EF20E}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\countryhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryHouse.cs",
+              "DocumentMoniker": "C:\\Users\\PavelL\\Desktop\\\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\Laboratornaya5\\MyLibrary\\CountryHouse.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\CountryHouse.cs",
+              "ToolTip": "C:\\Users\\PavelL\\Desktop\\\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\Laboratornaya5\\MyLibrary\\CountryHouse.cs",
+              "RelativeToolTip": "MyLibrary\\CountryHouse.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:30:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\PavelL\\Desktop\\\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\Laboratornaya5\\MyFactoryTests\\FactoryTests.cs",
+              "RelativeDocumentMoniker": "MyFactoryTests\\FactoryTests.cs",
+              "ToolTip": "C:\\Users\\PavelL\\Desktop\\\u041F\u043E\u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0445 \u0441\u0438\u0441\u0442\u0435\u043C\\Laboratornaya5\\MyFactoryTests\\FactoryTests.cs",
+              "RelativeToolTip": "MyFactoryTests\\FactoryTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:25:30.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\bin\Debug\Laboratornaya5.exe.config
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\bin\Debug\Laboratornaya5.exe
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\bin\Debug\Laboratornaya5.pdb
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\bin\Debug\MyLibrary.dll
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\bin\Debug\MyLibrary.pdb
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\obj\Debug\Laboratornaya5.csproj.AssemblyReference.cache
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\obj\Debug\Laboratornaya5.csproj.CoreCompileInputs.cache
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\obj\Debug\Laborato.89813A0E.Up2Date
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\obj\Debug\Laboratornaya5.exe
+C:\Users\PavelL\Desktop\Построение информационных систем\Laboratornaya5\Laboratornaya5\obj\Debug\Laboratornaya5.pdb
